@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Where Animals Talk: West African Folk Lore Tales</dc:title>
+      <dc:creator>Robert Hamill Nassau (1835–1921)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2019-02-17</dc:publisher>
+      <dc:date>2019-02-17</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans of this book are available from the Internet Archive (copy 1, 2, 3, 4, 5).
+</dc:rights>
+      <dc:subject>Animals, Legends and stories of</dc:subject>
+      <dc:subject>Tales, African</dc:subject>
+      <dc:subject>Africa, West</dc:subject>
+      <dc:description>A collection of West African Animal Stories from Equatorial Guinea. This collection is divided into three parts representing the Mpongwe (living near Libreville), Benga (living on Corisco Island), and Fang peoples (who live throughout Equatorial Guinea and in neighboring regions in Cameroon and Gabon). </dc:description>
+      <dc:identifier>pg:58900</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
